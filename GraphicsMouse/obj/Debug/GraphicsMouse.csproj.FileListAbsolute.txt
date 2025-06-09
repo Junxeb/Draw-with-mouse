@@ -1,0 +1,10 @@
+C:\CPE\GraphicsMouse\GraphicsMouse\obj\Debug\GraphicsMouse.csproj.AssemblyReference.cache
+C:\CPE\GraphicsMouse\GraphicsMouse\obj\Debug\GraphicsMouse.Form1.resources
+C:\CPE\GraphicsMouse\GraphicsMouse\obj\Debug\GraphicsMouse.Properties.Resources.resources
+C:\CPE\GraphicsMouse\GraphicsMouse\obj\Debug\GraphicsMouse.csproj.GenerateResource.cache
+C:\CPE\GraphicsMouse\GraphicsMouse\obj\Debug\GraphicsMouse.csproj.CoreCompileInputs.cache
+C:\CPE\GraphicsMouse\GraphicsMouse\bin\Debug\GraphicsMouse.exe.config
+C:\CPE\GraphicsMouse\GraphicsMouse\bin\Debug\GraphicsMouse.exe
+C:\CPE\GraphicsMouse\GraphicsMouse\bin\Debug\GraphicsMouse.pdb
+C:\CPE\GraphicsMouse\GraphicsMouse\obj\Debug\GraphicsMouse.exe
+C:\CPE\GraphicsMouse\GraphicsMouse\obj\Debug\GraphicsMouse.pdb
